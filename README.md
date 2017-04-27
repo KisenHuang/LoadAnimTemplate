@@ -113,6 +113,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 ```
 
 ## 使用方式
+```
 public class MainActivity extends BaseActivity {
 
     @Override
@@ -141,7 +142,7 @@ public class MainActivity extends BaseActivity {
         return 0;
     }
 }
-
+```
 
 
 ## 博客地址
